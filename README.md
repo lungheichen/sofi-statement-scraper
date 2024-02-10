@@ -19,6 +19,6 @@ A .csv file named `SoFi_statements.csv` should be outputted to the root folder
 with all statements data there! 
 
 ## Why was this built?
-I made this because there are no easy-to-use respositories that scrape SoFi 
+I made this because, as of Feb 2024, SoFi doesn't export statement data in text format past 2 years.  There are also no easy-to-use respositories that scrape SoFi 
 statement data.  This was my attempt at doing so.
 
